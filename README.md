@@ -20,6 +20,8 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 
 - **Audio Chipset: Realtek® ALC S1200A 8-Channel**
 
+- **WiFi + BT: Your Mileage May Vary, best to go with a Natively Supported Broadcom Chipset**
+
 - **LAN Chipset: Realtek® RTL8111H**
 
 - **RAM: 128GB DDR4 4400Mhz**
