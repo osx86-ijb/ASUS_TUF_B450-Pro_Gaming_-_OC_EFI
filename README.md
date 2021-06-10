@@ -1,5 +1,5 @@
 
-# ASUS TUF B450-Pro Gaming - OpenCore 0.7.0 - Catalina / Big Sur bootable
+# ASUS TUF B450-Pro Gaming - OpenCore 0.7.0 - Catalina / Big Sur
 
 This is the OpenCore 0.7.0 EFI files needed to boot macOS Catalina and Big Sur on the ASUS TUF B450-Pro Gaming Motherboard.
 
