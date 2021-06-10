@@ -10,21 +10,21 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 
 ## The Hardware specs of this build / motherboard used is as follows:
 
-**1) Motherboard: ASUS TUF B450-Pro Gaming**
+- **Motherboard: ASUS TUF B450-Pro Gaming**
 
-**2) CPU: AMD Ryzen 5 3500X 3.6 GHz 6-Core Processor**
+- **CPU: AMD Ryzen 5 3500X 3.6 GHz 6-Core Processor**
 
-**3) CPU Cooler: AMD Wraith Spire**
+- **CPU Cooler: AMD Wraith Spire**
 
-**4) GPU: XFX Radeon RX570 4GB**
+- **GPU: XFX Radeon RX570 4GB**
 
-**5) Audio Chipset: Realtek® ALC S1200A 8-Channel**
+- **Audio Chipset: Realtek® ALC S1200A 8-Channel**
 
-**6) LAN Chipset: Realtek® RTL8111H**
+- **LAN Chipset: Realtek® RTL8111H**
 
-**7) RAM: 128GB DDR4 4400Mhz**
+- **RAM: 128GB DDR4 4400Mhz**
 
-**8) Storage: Crucial P5 2TB PCIe M.2 2280SS SSD**
+- **Storage: Crucial P5 2TB PCIe M.2 2280SS SSD**
 
 ## Authors
 
