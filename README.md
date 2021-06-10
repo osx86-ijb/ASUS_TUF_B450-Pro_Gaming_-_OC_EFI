@@ -1,12 +1,12 @@
 
-# ASUS TUF B450-Pro Gaming - OpenCore 0.7.0 - Monterey Bootable
+# ASUS TUF B450-Pro Gaming - OpenCore 0.7.0 - Catalina / Big Sur bootable
 
 This is the OpenCore 0.7.0 EFI files needed to boot macOS Catalina and Big Sur on the ASUS TUF B450-Pro Gaming Motherboard.
 
 ![ASUS TUF B450-Pro Gaming](https://www.asus.com/media/global/products/2chSoHJqu4ecrydp/P_setting_xxx_0_90_end_500.png)
 
 ## !! ATTENTION !!
-_**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general.**_
+_**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general. If booting anything after 11.2.3, I highly suggest that you start out with something lower, and map your USB Ports first, as the XHCIPortLimit patch is broken after 11.3.x I believe.**_
 
 ## The Hardware specs of this build / motherboard used is as follows:
 
