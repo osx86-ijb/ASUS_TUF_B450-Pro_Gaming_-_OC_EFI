@@ -5,6 +5,10 @@ This is the OpenCore 0.7.0 EFI files needed to boot macOS Catalina and Big Sur o
 
 ![ASUS TUF B450-Pro Gaming](https://www.asus.com/media/global/products/2chSoHJqu4ecrydp/P_setting_xxx_0_90_end_500.png)
 
+## DISCLAIMER
+
+THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND RESEARCH PURPOSES, AND IS IN NO MAY MEANT TO PROMOTE CIRCUMVENTING OF ANYTHING THAT IS SOMEONE ELSE'S CORPORATE PRIVATE PROPERTY. THE INFORMATION LISTED HERE IS PURELY FOR EDUCATIONAL PURPOSES AND SHOULD YOU CHOOSE TO UTILIZE IT IN ANY WAY, I AM IN NO WAY RESPONSIBLE FOR ANY INJUNCTIONS/PROBLEMS THAT MAY OR MAY NOT ARISE AND/OR BE BROUGHT AGAINST ANOTHER FOR THEIR CHOOSING TO HAVE DONE SO.
+
 ## !! ATTENTION !!
 _**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general.**_
 
@@ -12,7 +16,7 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 
 - **Motherboard: ASUS TUF B450-Pro Gaming**
 
-- **CPU: AMD Ryzen 5 3500X 3.6 GHz 6-Core Processor**
+- **CPU: AMD Ryzen 5 3600 3.6 GHz 6-Core Processor**
 
 - **CPU Cooler: AMD Wraith Spire**
 
